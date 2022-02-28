@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Franklin Custodio",
-	"description": "FreeCodeCamp Challenge"
+	"description": "FreeCodeCamp Challenge",
+	"keywords": [ "freecodecamp", "challenge", "nodejs" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
