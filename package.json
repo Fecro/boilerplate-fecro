@@ -4,6 +4,7 @@
 	"description": "FreeCodeCamp Challenge",
 	"keywords": [ "freecodecamp", "challenge", "nodejs" ],
 	"license": "GNU GPLv3",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
